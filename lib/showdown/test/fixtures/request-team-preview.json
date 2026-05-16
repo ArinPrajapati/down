@@ -1,0 +1,15 @@
+{
+  "side": {
+    "name": "Bot",
+    "id": "p1",
+    "pokemon": [
+      {"ident": "p1: One", "details": "One", "condition": "100/100", "active": false},
+      {"ident": "p1: Two", "details": "Two", "condition": "100/100", "active": false},
+      {"ident": "p1: Three", "details": "Three", "condition": "100/100", "active": false},
+      {"ident": "p1: Four", "details": "Four", "condition": "100/100", "active": false}
+    ]
+  },
+  "teamPreview": true,
+  "maxTeamSize": 4,
+  "rqid": 1
+}

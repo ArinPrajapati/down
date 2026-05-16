@@ -1,0 +1,22 @@
+{
+  "active": [
+    {
+      "moves": [
+        {"move": "Light Screen", "id": "lightscreen", "pp": 48, "maxpp": 48, "target": "allySide", "disabled": false},
+        {"move": "U-turn", "id": "uturn", "pp": 32, "maxpp": 32, "target": "normal", "disabled": false},
+        {"move": "Knock Off", "id": "knockoff", "pp": 32, "maxpp": 32, "target": "normal", "disabled": true},
+        {"move": "Roost", "id": "roost", "pp": 16, "maxpp": 16, "target": "self", "disabled": false}
+      ]
+    }
+  ],
+  "side": {
+    "name": "Bot",
+    "id": "p1",
+    "pokemon": [
+      {"ident": "p1: Ledian", "details": "Ledian, L83, M", "condition": "227/227", "active": true},
+      {"ident": "p1: Pyukumuku", "details": "Pyukumuku, L83, F", "condition": "227/227", "active": false},
+      {"ident": "p1: Heatmor", "details": "Heatmor, L83, F", "condition": "0 fnt", "active": false}
+    ]
+  },
+  "rqid": 3
+}

@@ -1,0 +1,31 @@
+{
+  "active": [
+    {
+      "moves": [
+        {"move": "Thunderbolt", "id": "thunderbolt", "pp": 24, "maxpp": 24, "target": "normal", "disabled": false},
+        {"move": "Protect", "id": "protect", "pp": 16, "maxpp": 16, "target": "self", "disabled": false},
+        {"move": "Volt Switch", "id": "voltswitch", "pp": 32, "maxpp": 32, "target": "normal", "disabled": false},
+        {"move": "Snarl", "id": "snarl", "pp": 24, "maxpp": 24, "target": "allAdjacentFoes", "disabled": false}
+      ]
+    },
+    {
+      "moves": [
+        {"move": "Helping Hand", "id": "helpinghand", "pp": 32, "maxpp": 32, "target": "adjacentAlly", "disabled": false},
+        {"move": "Moonblast", "id": "moonblast", "pp": 24, "maxpp": 24, "target": "normal", "disabled": false},
+        {"move": "Protect", "id": "protect", "pp": 16, "maxpp": 16, "target": "self", "disabled": false},
+        {"move": "Icy Wind", "id": "icywind", "pp": 24, "maxpp": 24, "target": "allAdjacentFoes", "disabled": false}
+      ]
+    }
+  ],
+  "side": {
+    "name": "Bot",
+    "id": "p1",
+    "pokemon": [
+      {"ident": "p1: Rotom", "details": "Rotom-Wash", "condition": "100/100", "active": true},
+      {"ident": "p1: Cresselia", "details": "Cresselia", "condition": "100/100", "active": true},
+      {"ident": "p1: Incineroar", "details": "Incineroar", "condition": "100/100", "active": false},
+      {"ident": "p1: Amoonguss", "details": "Amoonguss", "condition": "0 fnt", "active": false}
+    ]
+  },
+  "rqid": 9
+}
