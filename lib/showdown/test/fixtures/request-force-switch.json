@@ -1,0 +1,14 @@
+{
+  "forceSwitch": [true, false],
+  "side": {
+    "name": "Bot",
+    "id": "p1",
+    "pokemon": [
+      {"ident": "p1: Rotom", "details": "Rotom-Wash", "condition": "0 fnt", "active": true},
+      {"ident": "p1: Cresselia", "details": "Cresselia", "condition": "100/100", "active": true},
+      {"ident": "p1: Incineroar", "details": "Incineroar", "condition": "100/100", "active": false},
+      {"ident": "p1: Amoonguss", "details": "Amoonguss", "condition": "100/100", "active": false}
+    ]
+  },
+  "rqid": 11
+}

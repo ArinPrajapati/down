@@ -1,0 +1,11 @@
+{
+  "name": "down-v0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  },
+  "scripts": {
+    "start:v0": "node src/main.js"
+  }
+}

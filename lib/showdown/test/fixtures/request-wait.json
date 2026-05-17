@@ -1,0 +1,11 @@
+{
+  "wait": true,
+  "side": {
+    "name": "Bot",
+    "id": "p1",
+    "pokemon": [
+      {"ident": "p1: Rotom", "details": "Rotom-Wash", "condition": "100/100", "active": true}
+    ]
+  },
+  "rqid": 12
+}
